@@ -1,1 +1,5 @@
 novo-arquivo.txt
+
+# Como ignorar um diretório inteiro
+# <nome-diretório>/
+bin/
