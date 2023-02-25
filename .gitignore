@@ -1,5 +1,13 @@
+# Só pra não usar a primeira linha
+
+# Ignorando um arquivo específico
 novo-arquivo.txt
 
 # Como ignorar um diretório inteiro
 # <nome-diretório>/
+# Exemplo:
 bin/
+
+# Usando GLOBBING como forma de referenciar arquivos.
+# Exemplo: ignorando todos arquivos com extensão "tmp"
+*.tmp
