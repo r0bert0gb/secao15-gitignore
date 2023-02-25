@@ -2,6 +2,7 @@
 
 # Ignorando um arquivo específico
 novo-arquivo.txt
+novo-arquivo2.txt
 
 # Como ignorar um diretório inteiro
 # <nome-diretório>/
