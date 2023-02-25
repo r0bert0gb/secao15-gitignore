@@ -1,8 +1,7 @@
 # Só pra não usar a primeira linha
 
 # Ignorando um arquivo específico
-novo-arquivo.txt
-novo-arquivo2.txt
+# novo-arquivo.txt
 
 # Como ignorar um diretório inteiro
 # <nome-diretório>/
